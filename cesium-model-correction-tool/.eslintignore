@@ -1,0 +1,7 @@
+dist
+node_modules
+mock
+public
+
+*.js
+*.d.ts
